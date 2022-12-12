@@ -1,4 +1,4 @@
-![](ImporterdAssets/PongGame.jpg)
+![](ImporterdAssets/PongGame.png)
 
 # Java 2D Game Text Based
 
