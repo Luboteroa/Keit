@@ -1,4 +1,4 @@
-![](2022-II/Java%20Programming/Text%20Based%202D%20Game/ImporterdAssets/PongGame.jpg)
+![](ImporterdAssets/PongGame.jpg)
 
 # Java 2D Game Text Based
 
@@ -6,7 +6,7 @@
 Este es un proyecto de un juego completamente hecho en texto, es decir, un juego completamente realizado
 por código utilizando Java con un *JDK 9*. Tiene una documentación bastante completa sobre absolutamente 
 todas las variables, métodos, clases y paquetes que pertenecen a esta. Véase aquí la
-documentación completa: ![Index](2022-II/Java%20Programming/Text%20Based%202D%20Game/uml/Documentacion/index.html)
+documentación completa: ![Index](uml/Documentacion/index.html)
 
 Gracias por echarle un vistazo a este proyecto!
 
@@ -46,7 +46,7 @@ El proyecto pesa aproximadamente 1.94MB, a pesar de ser pequeño, asegurarse de 
 ### Corriendo el proyecto
 
 Una vez abierto el proyecto, el archivo principal de uso (clase main) es la que realizará toda la depuración y uso del proyecto.
-Se recomienda leer [Clase Main](2022-II/Java%20Programming/Text%20Based%202D%20Game/uml/Documentacion/main/Main.html)
+Se recomienda leer [Clase Main](uml/Documentacion/main/Main.html)
 
 ## Agradecimiento
 
