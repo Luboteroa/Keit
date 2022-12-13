@@ -1,59 +1,59 @@
 ![](ImporterdAssets/PongGame.png)
 
-# Java 2D Game Text Based
+# Java 2D Text-Based Game
 
-**Proyecto actualmente en desarrollo**
-Este es un proyecto de un juego completamente hecho en texto, es decir, un juego completamente realizado
-por código utilizando Java con un *JDK 9*. Tiene una documentación bastante completa sobre absolutamente 
-todas las variables, métodos, clases y paquetes que pertenecen a esta. Véase aquí la
-documentación completa: ![Index](uml/Documentacion/index.html)
+**Project currently under development
+This is a project of a completely text based game, that is, a game completely made by code using Java with a *JDK 9*.
+by code using Java with a *JDK 9*. It has a quite complete documentation about absolutely all variables, methods, classes and 
+all variables, methods, classes and packages that belong to it. See here the
+complete documentation: ![Index](uml/Documentacion/index.html)
 
-Gracias por echarle un vistazo a este proyecto!
+Thanks for taking a look at this project!
 
-Este es un juego con vista top-down en 2D donde un jugador (con personaje principal llamada Keit) debe 
-recorrer un mundo el cual, está lleno de puzzles, enemigos y distintos obstáculos que deberá vencer para
-poder ganar. Mi objetivo principal de este proyecto es compartir el cómo son las bases más fundamentales 
-del desarrollo de videojuegos. Esto debido a que, en este código tendrás que lidiar con funciones *Update* (funciones llamadas en cada frame),
-*Sprites* (Imágenes de 16 x 16),  *Animations* (Las que controlan las animaciones), entre otras.
+This is a 2D top-down game where a player (with a main character named Keit) must 
+a world which is full of puzzles, enemies and different obstacles to overcome in order to win.
+to win. My main goal of this project is to share the most fundamental basics of video game development. 
+of videogame development. This is because, in this code you will have to deal with *Update* functions (functions called in each frame),
+*Sprites* (16 x 16 images), *Animations* (the ones that control the animations), among others.
 
-Este fue un proyecto creado como inspiración en The Legend Of Zelda(1986), para la materia **Programación en Java** de la *Universidad Nacional de Colombia sede Manizales*. Visita mi página [Linkedin](https://www.linkedin.com/in/luis-carlos-botero-agudelo-ab8896175/) para más muestras de proyectos realizados en Unity, Unreal Engine, Java, entre otros para diferentes tecnologías como juegos en 2D, 3D, Realidad Virtual, Aumentada y Extendida. Puedes revisar estos otros proyectos que te pueden
-interesar en mis [Repositorios!](https://github.com/Luboteroa)
+This was a project created as inspiration in The Legend Of Zelda(1986), for the subject **Programming in Java** of the *Universidad Nacional de Colombia sede Manizales*. Visit my page [Linkedin](https://www.linkedin.com/in/luis-carlos-botero-agudelo-ab8896175/) for more samples of projects made in Unity, Unreal Engine, Java, among others for different technologies such as 2D, 3D, Virtual Reality, Augmented and Extended games. You can check these other projects that may interest you
+be interested in my [Repositories!](https://github.com/Luboteroa)
 
-Las tecnologías que utilizamos son Java **(JDK 9)**, recomiendo utilizar Intellij IDEA como editor principal de texto para poder descargar y utilizar todas las librerías
-necesarias. Aunque si te sientes cómodo utilizando otro editor de Texto como Visual Studio Code, siéntete libre de hacerlo. Se requiere un principio de conocimiento
-básico para poder desarrollar este tipo de proyectos, como lo es la programación orientada objetos, clases, extensiones, entre otros factores básicos de desarrollo en 
-programación. Para más información sobre esto, recomiento leer [Java Tutorial](https://www.w3schools.com/java/) para aprender los principios básicos.
+The technologies we use are Java **(JDK 9)**, I recommend using Intellij IDEA as the main text editor to be able to download and use all the necessary libraries.
+libraries needed. Although if you feel comfortable using another text editor such as Visual Studio Code, feel free to do so. A basic knowledge is required to be able to develop this kind of
+knowledge is required to be able to develop this kind of projects, such as object oriented programming, classes, extensions, among other basic factors of programming development. 
+programming. For more information on this, I recommend reading [Java Tutorial](https://www.w3schools.com/java/) to learn the basics.
 
-## Estados y Prerrequisitos
+## States and Prerequisites
 
-Estados actuales de desarrollo
+Current development states
 ```
-Java         : JDK 9
-Plataformas  : Intellij IDEA
+Java : JDK 9
+Platforms : Intellij IDEA
 ```
-## Obtención del proyecto
+## Getting the project
 
-Para obtener el proyecto debes clonarlo.
->__IMPORTANTE__:
-> Este es un proyecto realizado sobre Java Intellij IDEA con las librerías específicas mencionadas anteriormente. 
-> No es ningún launcher para jugar el proyecto, de lo contrario esto
-> **No funcionará**. Para instalar Intellij IDEA recomiendo [ver](https://drive.google.com/file/d/1MoR2Us4HKEP-TjAl7YXJlZC4dbbFwxr1/view)
+To get the project you must clone it.
+>__IMPORTANT__:
+> This is a project made on Java Intellij IDEA with the specific libraries mentioned above. 
+> > It is not any launcher to play the project, otherwise this.
+> **Will not work**. To install Intellij IDEA I recommend [see](https://drive.google.com/file/d/1MoR2Us4HKEP-TjAl7YXJlZC4dbbFwxr1/view)
 
-El proyecto pesa aproximadamente 1.94MB, a pesar de ser pequeño, asegurarse de tener el requisito de almacenamiento suficiente para su descarga y uso 
-(por lo menos el doble de almacenamiento).
+The project weighs approximately 1.94MB, despite being small, make sure you have sufficient storage requirement for download and use 
+(at least double the storage).
 
 
-### Corriendo el proyecto
+### Running the project
 
-Una vez abierto el proyecto, el archivo principal de uso (clase main) es la que realizará toda la depuración y uso del proyecto.
-Se recomienda leer [Clase Main](uml/Documentacion/main/Main.html)
+Once the project is opened, the main usage file (main class) is the one that will perform all the debugging and usage of the project.
+It is recommended to read [Main Class](uml/Documentacion/main/Main.html)
 
-## Agradecimiento
+## Acknowledgements
 
-Agradecimientos especiales al profesor Juan Bernardo de la materia programación en Java de la Universidad Nacional sede Manizales por su apoyo y compromiso con la materia.
+Special thanks to Professor Juan Bernardo of the Java programming course at the Universidad Nacional, Manizales for his support and commitment to the course.
 
-También se agradece a todos los proveedores de café Colombiano y a toda la comunidad de Stack Overflow, sin ellos este proyecto no sería posible.
+Also thanks to all the Colombian coffee providers and the entire Stack Overflow community, without them this project would not be possible.
 
-## Licencias
+## Licenses
 
-No se requiere ninguna clase de licensia para la realización y uso de este proyecto.
+No licenses are required for the realization and use of this project.
