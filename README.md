@@ -2,27 +2,16 @@
 
 # Java 2D Text-Based Game
 
-**Project currently under development
-This is a project of a completely text based game, that is, a game completely made by code using Java with a *JDK 9*.
-by code using Java with a *JDK 9*. It has a quite complete documentation about absolutely all variables, methods, classes and 
-all variables, methods, classes and packages that belong to it. See here the
-complete documentation: ![Index](uml/Documentacion/index.html)
+**Project currently under development.**
+This is a project of a completely text based game, that is, a game completely made by code using Java with a *JDK 9*. It has a quite complete documentation about absolutely all variables, methods, classes and  all variables, methods, classes and packages that belong to it. See here the complete documentation: ![Index](uml/Documentacion/index.html)
 
 Thanks for taking a look at this project!
 
-This is a 2D top-down game where a player (with a main character named Keit) must 
-a world which is full of puzzles, enemies and different obstacles to overcome in order to win.
-to win. My main goal of this project is to share the most fundamental basics of video game development. 
-of videogame development. This is because, in this code you will have to deal with *Update* functions (functions called in each frame),
-*Sprites* (16 x 16 images), *Animations* (the ones that control the animations), among others.
+This is a 2D top-down game where a player (with a main character named Keit) must  a world which is full of puzzles, enemies and different obstacles to overcome in order to win. My main goal of this project is to share the most fundamental basics of video game development.  of videogame development. This is because, in this code you will have to deal with *Update* functions (functions called in each frame), *Sprites* (16 x 16 images), *Animations* (the ones that control the animations), among others.
 
-This was a project created as inspiration in The Legend Of Zelda(1986), for the subject **Programming in Java** of the *Universidad Nacional de Colombia sede Manizales*. Visit my page [Linkedin](https://www.linkedin.com/in/luis-carlos-botero-agudelo-ab8896175/) for more samples of projects made in Unity, Unreal Engine, Java, among others for different technologies such as 2D, 3D, Virtual Reality, Augmented and Extended games. You can check these other projects that may interest you
-be interested in my [Repositories!](https://github.com/Luboteroa)
+This was a project created as inspiration in The Legend Of Zelda(1986), for the subject **Programming in Java** of the *Universidad Nacional de Colombia sede Manizales*. Visit my page [Linkedin](https://www.linkedin.com/in/luis-carlos-botero-agudelo-ab8896175/) for more samples of projects made in Unity, Unreal Engine, Java, among others for different technologies such as 2D, 3D, Virtual Reality, Augmented and Extended games. You can check these other projects that may interest you be interested in my [Repositories!](https://github.com/Luboteroa)
 
-The technologies we use are Java **(JDK 9)**, I recommend using Intellij IDEA as the main text editor to be able to download and use all the necessary libraries.
-libraries needed. Although if you feel comfortable using another text editor such as Visual Studio Code, feel free to do so. A basic knowledge is required to be able to develop this kind of
-knowledge is required to be able to develop this kind of projects, such as object oriented programming, classes, extensions, among other basic factors of programming development. 
-programming. For more information on this, I recommend reading [Java Tutorial](https://www.w3schools.com/java/) to learn the basics.
+The technologies we use are Java **(JDK 9)**, I recommend using Intellij IDEA as the main text editor to be able to download and use all the necessary libraries. libraries needed. Although if you feel comfortable using another text editor such as Visual Studio Code, feel free to do so. A basic knowledge is required to be able to develop this kind of knowledge is required to be able to develop this kind of projects, such as object oriented programming, classes, extensions, among other basic factors of programming development. programming. For more information on this, I recommend reading [Java Tutorial](https://www.w3schools.com/java/) to learn the basics.
 
 ## States and Prerequisites
 
